@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @benji181
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at 08028403494
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @benji18i, otherwise known as Benjamin.
+- 👀 I’m passionately intrested in buildign software application that will enhance the human world 
+- 🌱 I’m currently learning ADVANCE DIPLOMA IN SOFTWARE ENGINEERING
+- 💞️ I’m looking to collaborate on various projects around the world 
+- 📫 reach me at olabisibolu7@gmail.com 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i code for8 fun
 
 <!---
 benji181/benji181 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
