@@ -1,12 +1,12 @@
 # 💫About Me :
  About Me :
-👋 Hi, I’m @benji18i, otherwise known as Benjamin.
-👀 I’m passionately interested in building software applications that will enhance the human world.
-🌱 I’m currently learning ADVANCED DIPLOMA IN SOFTWARE ENGINEERING.
-💞️ I’m looking to collaborate on various projects around the world.
-📫 Reach me at olabisibolu7@gmail.com.
-😄 Pronouns: he/him.
-⚡ Fun fact: I code for fun!
+*👋 Hi, I’m @benji18i, otherwise known as Benjamin.
+*👀 I’m passionately interested in building software applications that will enhance the human world.
+*🌱 I’m currently learning ADVANCED DIPLOMA IN SOFTWARE ENGINEERING.
+*💞️ I’m looking to collaborate on various projects around the world.
+*📫 Reach me at olabisibolu7@gmail.com.
+*😄 Pronouns: he/him.
+*⚡ Fun fact: I code for fun!
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bolu_benj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bolu-olabisi-benjamin) 
