@@ -1,11 +1,17 @@
 # 💫About Me :
  About Me :
 *👋 Hi, I’m @benji18i, otherwise known as Benjamin.
+
 *👀 I’m passionately interested in building software applications that will enhance the human world.
+
 *🌱 I’m currently learning ADVANCED DIPLOMA IN SOFTWARE ENGINEERING.
-*💞️ I’m looking to collaborate on various projects around the world.
+
+* I’m looking to collaborate on various projects around the world.
+
 *📫 Reach me at olabisibolu7@gmail.com.
+
 *😄 Pronouns: he/him.
+
 *⚡ Fun fact: I code for fun!
 
 ## 🌐Socials
